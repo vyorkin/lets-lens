@@ -1,4 +1,4 @@
-# Let's Lens
+# (my solutions to) Let's Lens
 
 <img src="http://i.imgur.com/0h9dFhl.png" width="300px"/>
 
@@ -29,7 +29,7 @@ of `error "todo: <function-name>"`.
 
 This module presents a series of exercises, representing lenses as a traditional
 pair of "`get` and `set`" functions. This representation may be beneficial as it
-easily appeals to an intuition of "what a lens is", however, it is outdated. 
+easily appeals to an intuition of "what a lens is", however, it is outdated.
 
 These exercises are useful to gain an initial understanding of the problems that
 lenses solve, as well as to gain an insight into the history of lenses and how
